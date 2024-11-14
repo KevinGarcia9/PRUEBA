@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{9E596523-EABB-4EAF-9B42-FFAD3F66CB1D}|FomularioEstudio.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E596523-EABB-4EAF-9B42-FFAD3F66CB1D}|FomularioEstudio.csproj|c:\\users\\alex\\desktop\\estudiosprogramacion\\repogit\\prueba\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E596523-EABB-4EAF-9B42-FFAD3F66CB1D}|FomularioEstudio.csproj|C:\\Users\\ALEX\\Desktop\\EstudiosProgramacion\\repoGit\\PRUEBA\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E596523-EABB-4EAF-9B42-FFAD3F66CB1D}|FomularioEstudio.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,8 +50,7 @@
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAgwBUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T00:14:20.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T00:14:20.639Z"
             }
           ]
         }
