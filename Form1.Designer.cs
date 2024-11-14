@@ -30,6 +30,7 @@
         {
             this.label1 = new System.Windows.Forms.Label();
             this.PrimerBoton = new System.Windows.Forms.Button();
+            this.label2 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -51,11 +52,21 @@
             this.PrimerBoton.Text = "Cambiar";
             this.PrimerBoton.UseVisualStyleBackColor = true;
             // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(394, 86);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(52, 16);
+            this.label2.TabIndex = 2;
+            this.label2.Text = "cambio";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.label2);
             this.Controls.Add(this.PrimerBoton);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
@@ -70,6 +81,7 @@
 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button PrimerBoton;
+        private System.Windows.Forms.Label label2;
     }
 }
 
