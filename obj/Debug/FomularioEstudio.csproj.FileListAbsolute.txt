@@ -8,3 +8,13 @@ C:\Users\ALEX\Desktop\EstudiosProgramacion\Nueva carpeta\FomularioEstudio\Fomula
 C:\Users\ALEX\Desktop\EstudiosProgramacion\Nueva carpeta\FomularioEstudio\FomularioEstudio\obj\Debug\FomularioEstudio.csproj.CoreCompileInputs.cache
 C:\Users\ALEX\Desktop\EstudiosProgramacion\Nueva carpeta\FomularioEstudio\FomularioEstudio\obj\Debug\FomularioEstudio.exe
 C:\Users\ALEX\Desktop\EstudiosProgramacion\Nueva carpeta\FomularioEstudio\FomularioEstudio\obj\Debug\FomularioEstudio.pdb
+C:\Users\ALEX\Desktop\EstudiosProgramacion\AppEstudio\FomularioEstudio\FomularioEstudio\bin\Debug\FomularioEstudio.exe.config
+C:\Users\ALEX\Desktop\EstudiosProgramacion\AppEstudio\FomularioEstudio\FomularioEstudio\bin\Debug\FomularioEstudio.exe
+C:\Users\ALEX\Desktop\EstudiosProgramacion\AppEstudio\FomularioEstudio\FomularioEstudio\bin\Debug\FomularioEstudio.pdb
+C:\Users\ALEX\Desktop\EstudiosProgramacion\AppEstudio\FomularioEstudio\FomularioEstudio\obj\Debug\FomularioEstudio.csproj.AssemblyReference.cache
+C:\Users\ALEX\Desktop\EstudiosProgramacion\AppEstudio\FomularioEstudio\FomularioEstudio\obj\Debug\FomularioEstudio.Form1.resources
+C:\Users\ALEX\Desktop\EstudiosProgramacion\AppEstudio\FomularioEstudio\FomularioEstudio\obj\Debug\FomularioEstudio.Properties.Resources.resources
+C:\Users\ALEX\Desktop\EstudiosProgramacion\AppEstudio\FomularioEstudio\FomularioEstudio\obj\Debug\FomularioEstudio.csproj.GenerateResource.cache
+C:\Users\ALEX\Desktop\EstudiosProgramacion\AppEstudio\FomularioEstudio\FomularioEstudio\obj\Debug\FomularioEstudio.csproj.CoreCompileInputs.cache
+C:\Users\ALEX\Desktop\EstudiosProgramacion\AppEstudio\FomularioEstudio\FomularioEstudio\obj\Debug\FomularioEstudio.exe
+C:\Users\ALEX\Desktop\EstudiosProgramacion\AppEstudio\FomularioEstudio\FomularioEstudio\obj\Debug\FomularioEstudio.pdb
