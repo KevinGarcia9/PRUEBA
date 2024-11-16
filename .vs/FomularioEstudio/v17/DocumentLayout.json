@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ALEX\\Desktop\\EstudiosProgramacion\\repoGit\\PRUEBA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ALEX\\Desktop\\EstudiosProgramacion\\repoGit\\PRUEBA\\formulariojosvin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:formulariojosvin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9E596523-EABB-4EAF-9B42-FFAD3F66CB1D}|FomularioEstudio.csproj|C:\\Users\\ALEX\\Desktop\\EstudiosProgramacion\\repoGit\\PRUEBA\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E596523-EABB-4EAF-9B42-FFAD3F66CB1D}|FomularioEstudio.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E596523-EABB-4EAF-9B42-FFAD3F66CB1D}|FomularioEstudio.csproj|c:\\users\\alex\\desktop\\estudiosprogramacion\\repogit\\prueba\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9E596523-EABB-4EAF-9B42-FFAD3F66CB1D}|FomularioEstudio.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9E596523-EABB-4EAF-9B42-FFAD3F66CB1D}|FomularioEstudio.csproj|c:\\users\\alex\\desktop\\estudiosprogramacion\\repogit\\prueba\\formjos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E596523-EABB-4EAF-9B42-FFAD3F66CB1D}|FomularioEstudio.csproj|solutionrelative:formjos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E596523-EABB-4EAF-9B42-FFAD3F66CB1D}|FomularioEstudio.csproj|C:\\Users\\ALEX\\Desktop\\EstudiosProgramacion\\repoGit\\PRUEBA\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,19 +34,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "formularioJosvin.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\ALEX\\Desktop\\EstudiosProgramacion\\repoGit\\PRUEBA\\formularioJosvin.cs",
-              "RelativeDocumentMoniker": "formularioJosvin.cs",
-              "ToolTip": "C:\\Users\\ALEX\\Desktop\\EstudiosProgramacion\\repoGit\\PRUEBA\\formularioJosvin.cs [Dise\u00F1o]",
-              "RelativeToolTip": "formularioJosvin.cs [Dise\u00F1o]",
+              "DocumentIndex": 1,
+              "Title": "formJos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ALEX\\Desktop\\EstudiosProgramacion\\repoGit\\PRUEBA\\formJos.cs",
+              "RelativeDocumentMoniker": "formJos.cs",
+              "ToolTip": "C:\\Users\\ALEX\\Desktop\\EstudiosProgramacion\\repoGit\\PRUEBA\\formJos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "formJos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T04:23:43.506Z",
+              "WhenOpened": "2024-11-16T01:46:29.404Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\ALEX\\Desktop\\EstudiosProgramacion\\repoGit\\PRUEBA\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -66,7 +66,8 @@
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAgwBUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T00:14:20.639Z"
+              "WhenOpened": "2024-11-14T00:14:20.639Z",
+              "EditorCaption": ""
             }
           ]
         }
